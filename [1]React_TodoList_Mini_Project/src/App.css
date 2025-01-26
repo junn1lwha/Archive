@@ -1,0 +1,8 @@
+.App {
+
+  width: 500px;
+  margin: 0 auto;
+  display: flex; /* 클래스 네임 아래에 있는 자식 요소들의 배치를 좀 더 유연하게 할 수 있도록 도와주는 속성*/
+  flex-direction: column; /* 세로로 */
+  gap: 10px;
+}
