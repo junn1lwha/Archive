@@ -17,17 +17,6 @@ https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%EB%A6%AC%EC%95%A1%ED%8A%B8
 3. 검색창을 통해 특정 할 일을 검색
 4. 삭제 버튼 클릭 시 해당 할 일 삭제
 
-## 프로젝트 구조
-Archive/
-├── [1]React_TodoList_Mini_Project/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── App.js
-│   │   ├── index.js
-│   ├── package.json
-│   ├── README.md
-
 ## 기술 스택
 - React.js
 - HTML, CSS, JavaScript (ES6+)
