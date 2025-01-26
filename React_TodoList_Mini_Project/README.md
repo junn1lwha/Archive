@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React Todo List Mini Project
+이 프로젝트는 React를 사용하여 간단한 투두리스트 애플리케이션을 구현한 프로젝트입니다.
+사용자는 할 일을 추가, 수정, 삭제할 수 있으며 상태 관리를 통해 실시간으로 업데이트됩니다.
